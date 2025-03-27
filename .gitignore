@@ -1,1 +1,8 @@
+# Vector DB
+*.db
+
+# tensor output
+*.txt
+
+# Jupyter Notebook temp. files
 .ipynb_checkpoints
